@@ -32,4 +32,5 @@ instagram_username: davilagrau
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feedzz
+  - jekyll-feed
+  
