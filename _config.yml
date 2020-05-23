@@ -30,7 +30,7 @@ linkedin_username: almo
 instagram_username: davilagrau
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
